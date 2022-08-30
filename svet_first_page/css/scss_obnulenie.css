@@ -471,14 +471,13 @@ body:before{
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.05);
   padding: 50px 0 20px 0;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .podzagolovok {
